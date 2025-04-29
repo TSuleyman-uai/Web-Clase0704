@@ -1,0 +1,23 @@
+#contenedor {
+    margin: 0 auto;
+    }
+
+    #cabecera {
+        text-shadow: rgb(150, 150, 77);
+    }
+
+    #menu {
+        float: right;
+        width: 30%;
+    }
+
+    #contenido {
+        float: left;
+        width: 70%;
+    }
+
+    #pie {
+        clear: both;
+        visibility: hidden;
+    }
+    
